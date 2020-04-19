@@ -20,3 +20,5 @@ To push APK to android mobile device:
 
 To build web:
 `yarn workspace web build`
+
+Donation: https://paypal.me/shubhamtakode?locale.x=en_GB
